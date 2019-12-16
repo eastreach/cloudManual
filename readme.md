@@ -5,4 +5,5 @@
 1. [功能模块](./doc/feature.md)
 1. [营销推广](./doc/promotion.md)
 1. [小程序瑞通软件](./doc/product_ma.md)
+1. [小程序瑞通云模板](./doc/product_ma_b.md)
 1. [更新日志](changelist.md)
