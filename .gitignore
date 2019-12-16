@@ -1,0 +1,30 @@
+# eclipse ignore
+.settings/
+.project
+.classpath
+.eclipse
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# system ignore
+.DS_Store
+Thumbs.db
+*.orig
+
+# project ignore
+assets/*
+!assets/.gitignore
+runtime/*
+!runtime/.gitignore
+web/assets/*
+tests/
+.buildpath
+node_modules
+test.js
+npm-debug.log
+dist
+*.wepycache
